@@ -1,8 +1,8 @@
+package {{$name}};
 use strict;
 use warnings;
-package {{$name}};
 
-our $VERSION = '0.01';
+our $VERSION = '0.0';
 
 sub foo {
 
